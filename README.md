@@ -2,4 +2,4 @@
 # testWaffleGithubIntegration
 Click on the badge above to go to the Waffle.io Kanban board.
 
-https://raw.githubusercontent.com/Duke-Translational-Bioinformatics/testWaffleGithubIntegration/master/Screen%20Shot%202015-03-17%20at%202.42.11%20PM.png
+![Image of Waffle Board](https://raw.githubusercontent.com/Duke-Translational-Bioinformatics/testWaffleGithubIntegration/master/Screen%20Shot%202015-03-17%20at%202.42.11%20PM.png}
